@@ -1,0 +1,28 @@
+[21-Apr-2023 10:04:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bbhkhighschool/public_html/app/Models/page.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bbhkhighschool/public_html/app/Models/page.php on line 8
+[21-Apr-2023 10:04:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bbhkhighschool/public_html/app/Models/Staffs_Doc.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bbhkhighschool/public_html/app/Models/Staffs_Doc.php on line 8
+[21-Apr-2023 10:04:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bbhkhighschool/public_html/app/Models/Carousel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bbhkhighschool/public_html/app/Models/Carousel.php on line 8
+[21-Apr-2023 10:04:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bbhkhighschool/public_html/app/Models/result.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bbhkhighschool/public_html/app/Models/result.php on line 8
+[21-Apr-2023 10:04:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bbhkhighschool/public_html/app/Models/Calender.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bbhkhighschool/public_html/app/Models/Calender.php on line 8
+[21-Apr-2023 10:04:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bbhkhighschool/public_html/app/Models/Exam.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bbhkhighschool/public_html/app/Models/Exam.php on line 8
+[21-Apr-2023 10:04:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/bbhkhighschool/public_html/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bbhkhighschool/public_html/app/Models/User.php on line 13
